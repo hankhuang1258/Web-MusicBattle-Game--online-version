@@ -14,4 +14,4 @@ A game project written in HTML/CSS/JavaScript/PHP/SQL.</br>
 Use '↑' '↓' '←' '→' to hit on the beat and get high scores.</br>
 If you hit on the beat without being interrupted , the game will be in Combo Mode and you can get more scores. </br>
 ##Deatail Report
-[Report](https://drive.google.com/file/d/0B796WVmsjTFnaUxweUlzMXhycms/view?usp=sharing)
+[Report](https://drive.google.com/file/d/0B796WVmsjTFnZW90SEt0M2hlTUk/view?usp=sharing)
